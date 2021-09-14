@@ -1,0 +1,18 @@
+1. build is when source code is all compiled together
+-release is when a build passes all tests
+-deploy is when a release is made live to users
+2. dependencies are anything that any line of code relies on outside of itself, such as packages, the language you are writing in and libraries
+-axios
+-express
+-cors
+-windows
+-mac
+-linux
+-(coding language)
+3.DevOps philosophy & principles of devOps
+-writing and enabling running of code on multiple environments should go hand in hand.
+-Environments , local, staging, prod, continuous integration/delivery, automation
+4.CI/CD. continuous integration and development
+-servers that automatically test new code as soon as code is merged
+-can be done on the cloud to save our computers some time & energy
+-circle ci can connect to github and can autumatically test projects whenever there is a new push to github.
